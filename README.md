@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing UX/product design and operations work.
 
-**Live site:** https://khushvip.github.io/khushvi-portfolio
+**Live site:** https://khushvip.github.io/khushvi-portfolio/
 
 ---
 
